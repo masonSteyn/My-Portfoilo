@@ -1,0 +1,28 @@
+h2 {
+    color:aqua;
+   
+ 
+  
+}
+.container{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    border:solid;
+    border-color: aqua;
+    border-width: 10px;
+}
+body{
+    background-color: gray;
+}
+p {
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+}
